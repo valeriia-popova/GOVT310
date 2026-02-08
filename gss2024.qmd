@@ -35,7 +35,7 @@ library(gtsummary) # optional for step 10
 The dataset should appear in the Environment tab. Set up the proper path to the dataset on your computer.
 
 ```{r}
-load(url("https://raw.githubusercontent.com/valeriia-popova/political_analysis/main/gss2024.RData"))
+load(url("https://raw.githubusercontent.com/valeriia-popova/r-survey-analysis/main/gss2024.RData"))
 ```
 
 ## Step 3: identify your variables
